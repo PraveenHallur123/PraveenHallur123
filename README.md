@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PraveenHallur2003
 - 👀 I’m interested in coding and cyber security 
-- 🌱 I’m currently learning diploma 
+- 🌱 I’m currently learning Bachelor of Engineering in Computer science and business studies 
 - 💞️ I’m looking to collaborate on cyber security 
 - 📫 How to reach me on insta @praveen_hallur
 
