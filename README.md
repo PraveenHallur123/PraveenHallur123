@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack**
 
-- 👨‍💻 All of my projects are available at [[https://praveenportfolio2003.blogspot.com/#](https://praveenportfolio2003.blogspot.com/#](https://miniprojectbytes.blogspot.com/#testimonial-wrap))
+- 👨‍💻 All of my projects are available at [[https://miniprojectbytes.blogspot.com/#testimonial-wrap]())
 
 - 📝 I regularly write articles on [https://praveenhallurlearning.blogspot.com/?m=1](https://praveenhallurlearning.blogspot.com/?m=1)
 
