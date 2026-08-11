@@ -1,398 +1,425 @@
 <div align="center">
 
-<!-- ===================================================== -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
 
-<!--                    JARVIS BOOT SCREEN                  -->
+<!-- ║                     J.A.R.V.I.S. CORE                      ║ -->
 
-<!-- ===================================================== -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0b1f33,100:00e5ff&height=220&section=header&text=PRAVEEN%20HALLUR&fontSize=52&fontColor=00E5FF&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20ENGINEER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descAlignY=55&descSize=18&descColor=FFFFFF" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=850&height=100&lines=%3E%3E+JARVIS+SYSTEM+INITIALIZING...;%3E%3E+WELCOME%2C+PRAVEEN+HALLUR;%3E%3E+FULL+STACK+SYSTEMS+ONLINE+%E2%9A%A1;%3E%3E+CYBERSECURITY+MODULE+ACTIVE+%F0%9F%9B%A1%EF%B8%8F;%3E%3E+AI+EXPERIMENTS+RUNNING+%F0%9F%A4%96;%3E%3E+BUILDING+THE+FUTURE...+%F0%9F%9A%80" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:0369a1,100:00e5ff&height=240&section=header&text=PRAVEEN%20HALLUR&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20SYSTEM%20ONLINE%20%7C%20CYBERSECURITY%20%7C%20FULL%20STACK%20%7C%20AI%20%E2%9A%A1&descAlignY=58&descSize=17&descColor=00e5ff" />
 
 <br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/SECURITY-ACTIVE-00FF88?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-EXPERIMENTAL-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/BUILDING-24%2F7-FFB000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=90&lines=%5B%2B%5D+J.A.R.V.I.S.+CORE+INITIALIZED;%5B%2B%5D+IDENTITY%3A+PRAVEEN+HALLUR;%5B%2B%5D+CYBERSECURITY+MODULE+%3A+ONLINE;%5B%2B%5D+FULL+STACK+ENGINE+%3A+ONLINE;%5B%2B%5D+AI+LAB+%3A+ACTIVE;%5B%2B%5D+BUILDING+THE+FUTURE..." alt="JARVIS SYSTEM" />
+
+<br>
+
+<img src="https://img.shields.io/badge/%E2%97%89%20SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/%E2%97%89%20SECURITY-ACTIVE-00FF88?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/%E2%97%89%20AI-ACTIVE-9D4EDD?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/%E2%97%89%20BUILD-MODE-FFB000?style=for-the-badge&labelColor=020617" />
 
 <br><br>
 
 <a href="https://github.com/PraveenHallur123">
-<img src="https://img.shields.io/badge/GITHUB-PRAVEENHALLUR123-111827?style=for-the-badge&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/%E2%9A%A1%20GITHUB-PRAVEENHALLUR123-020617?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
 
 <a href="https://hallunix.tech">
-<img src="https://img.shields.io/badge/HALLUNIX%20TECH-SYSTEMS-111827?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20HALLUNIX%20TECH-ONLINE-020617?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
 </a>
 
 <a href="https://praveenhallur.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-ACCESS-111827?style=for-the-badge&logo=vercel&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-OPEN-020617?style=for-the-badge&logo=vercel&logoColor=00E5FF" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PraveenHallur123&label=%E2%97%89%20PROFILE%20SCANS&color=00e5ff&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                 ◉  J.A.R.V.I.S. / CORE 3.0  ◉                   ║
+║                                                                    ║
+║              ┌──────────────────────────────────┐                  ║
+║              │       PRAVEEN HALLUR             │                  ║
+║              │       ◉ ONLINE                   │                  ║
+║              └──────────────────────────────────┘                  ║
+║                                                                    ║
+║       ◈  FULL STACK       ◈  CYBERSECURITY       ◈  AI             ║
+║                                                                    ║
+║       ████████████████████████████████████████  100%              ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,js,python,react,nextjs,nodejs,express,laravel,mysql,mongodb,firebase,postgres,html,css,tailwind,bootstrap,git,github,docker,linux,vscode,vite&perline=11&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ 〔 SYSTEM PROFILE 〕 ⚡
+
+<table>
+<tr>
+<td align="center" width="180">
+
+### ◉
+
+**IDENTITY**
+
+PRAVEEN HALLUR
+
+</td>
+
+<td align="center" width="180">
+
+### ◈
+
+**ROLE**
+
+FULL STACK
+
+</td>
+
+<td align="center" width="180">
+
+### ⬡
+
+**SECURITY**
+
+ACTIVE
+
+</td>
+
+<td align="center" width="180">
+
+### ⌬
+
+**AI LAB**
+
+ACTIVE
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🎓
+
+**B.E. CSE**
+
+</td>
+
+<td align="center">
+
+📍
+
+**BENGALURU**
+
+</td>
+
+<td align="center">
+
+💻
+
+**104 REPOS**
+
+</td>
+
+<td align="center">
+
+⚡
+
+**BUILD MODE**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 〔 NEURAL ENGINE 〕
+
+```text
+       ╭────────────────────────────────────────────────────╮
+       │                                                    │
+       │       ██████╗ ██████╗ ██████╗ ███████╗            │
+       │       ██╔══██╗██╔══██╗██╔══██╗██╔════╝            │
+       │       ██████╔╝██████╔╝██████╔╝█████╗              │
+       │       ██╔═══╝ ██╔══██╗██╔══██╗██╔══╝              │
+       │       ██║     ██║  ██║██║  ██║███████╗            │
+       │       ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝            │
+       │                                                    │
+       │       ◉ CODE       ◉ BUILD       ◉ SECURE          │
+       │       ◉ LEARN      ◉ BREAK       ◉ REPEAT          │
+       │                                                    │
+       ╰────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# 🛡️ 〔 SECURITY MATRIX 〕
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WEB%20SECURITY-██████████████████░░-00E5FF?style=for-the-badge&labelColor=020617" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ETHICAL%20HACKING-████████████████░░░░-00FF88?style=for-the-badge&labelColor=020617" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUG%20HUNTING-███████████████░░░░░-FFB000?style=for-the-badge&labelColor=020617" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SECURE%20BACKEND-██████████████████░░-00E5FF?style=for-the-badge&labelColor=020617" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AUTH%20%26%20ACCESS-██████████████████░░-9D4EDD?style=for-the-badge&labelColor=020617" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`◉ BUILD` → `◉ TEST` → `◉ BREAK` → `◉ SECURE` → `◉ DEPLOY`
+
+</div>
+
+---
+
+# ⚙️ 〔 TECH ENGINE 〕
+
+<div align="center">
+
+|          ◉          |            ◉           |            ◉           |
+| :-----------------: | :--------------------: | :--------------------: |
+|    **LANGUAGES**    |      **FRONTEND**      |       **BACKEND**      |
+| `PHP` `JS` `PYTHON` |     `REACT` `NEXT`     | `PHP` `NODE` `EXPRESS` |
+|  `HTML` `CSS` `SQL` | `TAILWIND` `BOOTSTRAP` |        `LARAVEL`       |
+
+|           ◉           |        ◉       |         ◉         |
+| :-------------------: | :------------: | :---------------: |
+|      **DATABASE**     |   **DEVOPS**   |    **SECURITY**   |
+|    `MYSQL` `MONGO`    | `GIT` `DOCKER` |   `WEB SECURITY`  |
+| `FIREBASE` `POSTGRES` | `LINUX` `VITE` | `ETHICAL HACKING` |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 〔 ACTIVE MISSIONS 〕
+
+<img src="https://img.shields.io/badge/%E2%96%B6%20ACADPULSE-ACTIVE-00E5FF?style=for-the-badge&labelColor=020617" />
+
+<img src="https://img.shields.io/badge/%E2%96%B6%20CYBERSECURITY-ACTIVE-00FF88?style=for-the-badge&labelColor=020617" />
+
+<img src="https://img.shields.io/badge/%E2%96%B6%20FULL%20STACK-ACTIVE-9D4EDD?style=for-the-badge&labelColor=020617" />
+
+<img src="https://img.shields.io/badge/%E2%96%B6%20AI%20EXPERIMENTS-ACTIVE-FFB000?style=for-the-badge&labelColor=020617" />
+
+<img src="https://img.shields.io/badge/%E2%96%B6%20DOCKER-LEARNING-00E5FF?style=for-the-badge&labelColor=020617" />
+
+</div>
+
+---
+
+# 🎓 〔 ACADPULSE // PROJECT CORE 〕
+
+<div align="center">
+
+<a href="https://github.com/PraveenHallur123/AcadPulse">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenHallur123&repo=AcadPulse&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=020617" width="48%" />
+
+</a>
+
+<br>
+
+<a href="https://acadpulse.pages.dev/">
+
+<img src="https://img.shields.io/badge/%E2%97%89%20LIVE%20SYSTEM-ACADPULSE-00E5FF?style=for-the-badge&labelColor=020617" />
+
 </a>
 
 </div>
 
 ---
 
-# 🤖 J.A.R.V.I.S. // PERSONAL DEVELOPER SYSTEM
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                    J.A.R.V.I.S. CORE v3.0                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  USER                : PRAVEEN HALLUR                            ║
-║  DESIGNATION         : FULL STACK ENGINEER                       ║
-║  SECONDARY ROLE      : CYBERSECURITY ENTHUSIAST                  ║
-║  LOCATION            : BENGALURU, INDIA                          ║
-║  EDUCATION           : B.E. COMPUTER SCIENCE & BUSINESS          ║
-║                                                                  ║
-║  SYSTEM STATUS       : ● ONLINE                                  ║
-║  SECURITY STATUS     : ● ACTIVE                                  ║
-║  LEARNING MODE       : ● ENABLED                                 ║
-║  BUILD MODE          : ● ALWAYS ON                               ║
-║                                                                  ║
-║  CURRENT MISSION    > BUILD • SECURE • AUTOMATE • LEARN          ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-# ⚡ ABOUT THE OPERATOR
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-I'm **Praveen Hallur** — a Computer Science & Business Engineering student, full-stack developer, cybersecurity enthusiast, and technology builder.
-
-I enjoy taking an idea from:
-
-**💡 Concept → 🧠 Architecture → 💻 Code → 🛡️ Security → 🚀 Deployment**
-
-My goal isn't just to write code.
-
-I want to understand **how systems work, how they can fail, how they can be secured, and how they can be improved.**
-
-### Current Interests
-
-* 🤖 Artificial Intelligence
-* 💻 Full-Stack Development
-* 🛡️ Cybersecurity
-* 🕵️ Ethical Hacking
-* 🌐 Web Application Security
-* ⚙️ Backend Architecture
-* 🐳 Docker & Deployment
-* 🚀 Product Development
-* 🔬 Experimental Projects
-
-<br clear="right"/>
-
----
-
-# 🧠 NEURAL CORE // TECH STACK
+# 🤖 〔 AI / JARVIS LAB 〕
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+<a href="https://github.com/PraveenHallur123/Jarvis-AI">
 
-<img src="https://skillicons.dev/icons?i=php,js,python,html,css,sql&perline=6&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenHallur123&repo=Jarvis-AI&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=020617" width="48%" />
 
-### FRONTEND SYSTEMS
+</a>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&perline=6&theme=dark" />
+<a href="https://github.com/PraveenHallur123/Advanced-Voice-Command-Website-Jarvis-Style-AI-Assistant-">
 
-### BACKEND SYSTEMS
+<img src="https://img.shields.io/badge/%E2%97%89%20VOICE%20COMMAND-JARVIS%20LAB-9D4EDD?style=for-the-badge&labelColor=020617" />
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel&perline=6&theme=dark" />
-
-### DATABASE SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql&perline=6&theme=dark" />
-
-### DEVELOPMENT INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vite,linux&perline=6&theme=dark" />
+</a>
 
 </div>
 
 ---
 
-# 🛡️ CYBERSECURITY // DEFENSE PROTOCOL
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                  SECURITY MODULE STATUS                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Web Security              ███████████████░░░  ACTIVE       │
-│  Ethical Hacking           █████████████░░░░░  LEARNING     │
-│  Bug Hunting               ████████████░░░░░░  ACTIVE       │
-│  Authentication             ███████████████░░░  ACTIVE       │
-│  Secure Backend             █████████████░░░░░  ACTIVE       │
-│  Vulnerability Analysis     ███████████░░░░░░░  LEARNING     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-> **BUILD IT → BREAK IT → SECURE IT → LEARN FROM IT**
-
-My cybersecurity interests include web application security, authentication systems, vulnerability analysis, ethical hacking fundamentals and secure software development.
-
----
-
-# 🚀 CURRENT MISSION // 2026
+# 🏢 〔 HALLUNIX TECH SOLUTIONS 〕
 
 <div align="center">
 
-| Mission                       | Status               |
-| ----------------------------- | -------------------- |
-| 🧠 Advanced Cybersecurity     | `IN PROGRESS`        |
-| ⚛️ React & Modern Frontend    | `IN PROGRESS`        |
-| 🔥 Laravel Backend            | `IN PROGRESS`        |
-| 🐳 Docker & Deployment        | `IN PROGRESS`        |
-| 🤖 AI Experiments             | `ACTIVE`             |
-| 🎓 AcadPulse                  | `ACTIVE DEVELOPMENT` |
-| 🌐 Full-Stack Client Projects | `ACTIVE`             |
-
-</div>
-
----
-
-# 🧬 PROJECT DATABASE
-
-## 🎓 AcadPulse
-
-```text
-PROJECT TYPE : Academic Technology
-STATUS       : ACTIVE DEVELOPMENT
-MISSION      : Improve academic communication & collaboration
-```
-
-**AcadPulse** is an academic-focused project designed to improve communication, coordination and collaboration within an educational environment.
-
-🌐 **Live System:**
-https://acadpulse.pages.dev/
-
-💻 **Source Code:**
-https://github.com/PraveenHallur123/AcadPulse
-
----
-
-## 🤖 JARVIS AI
-
-```text
-PROJECT TYPE : AI / Voice Assistant
-STATUS       : EXPERIMENTAL
-LANGUAGE     : JavaScript
-```
-
-A virtual-assistant project inspired by futuristic voice-controlled systems.
-
-💻 **Repository:**
-https://github.com/PraveenHallur123/Jarvis-AI
-
----
-
-## 🏢 Advanced Apartment Management System
-
-```text
-PROJECT TYPE : Management System
-STACK        : PHP
-STATUS       : COMPLETED
-```
-
-A database-driven apartment management platform designed to simplify apartment-related operations.
-
-💻 **Repository:**
-https://github.com/PraveenHallur123/Advanced-Apartment-Management-System
-
----
-
-## 🏍️ Bike Rent Management System
-
-```text
-PROJECT TYPE : DBMS
-STACK        : PHP + HTML + CSS
-STATUS       : COMPLETED
-```
-
-A database management project for handling bike rental operations.
-
-💻 **Repository:**
-https://github.com/PraveenHallur123/Bike-Rent-
-
----
-
-# 🏢 HALLUNIX TECH // DEVELOPMENT LAB
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&text=HALLUNIX%20TECH%20SOLUTIONS&fontSize=26&fontColor=00E5FF&animation=fadeIn" />
-
-</div>
-
-I'm also building and exploring real-world software solutions through **Hallunix Tech Solutions**.
-
-### Development Focus
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  █ Full Stack Web Applications              │
-│  █ Business Websites                         │
-│  █ Database Applications                     │
-│  █ Secure Authentication                     │
-│  █ Custom Software Solutions                 │
-│  █ Client Projects                           │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-🌐 https://hallunix.tech
-
----
-
-# 📡 GITHUB TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenHallur123&bg_color=050816&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=PRAVEEN%20HALLUR%20-%20SYSTEM%20TELEMETRY" width="96%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:082f49,100:00e5ff&height=110&text=HALLUNIX%20TECH%20SOLUTIONS&fontSize=27&fontColor=ffffff&animation=fadeIn" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PraveenHallur123&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" width="48%" />
+<a href="https://hallunix.tech">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenHallur123&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=FFFFFF&langs_count=8" width="48%" />
+<img src="https://img.shields.io/badge/%E2%96%B6%20ENTER%20SYSTEM-HALLUNIX.TECH-00E5FF?style=for-the-badge&labelColor=020617" />
+
+</a>
+
+<br><br>
+
+`WEB`　`SOFTWARE`　`SECURITY`　`DATABASE`　`CLIENT SYSTEMS`
 
 </div>
 
 ---
-
-# 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PraveenHallur123/PraveenHallur123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PraveenHallur123/PraveenHallur123/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/PraveenHallur123/PraveenHallur123/output/github-contribution-grid-snake.svg">
-</picture>
+# 📡 〔 GITHUB TELEMETRY 〕
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenHallur123&bg_color=020617&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=PRAVEEN%20HALLUR%20%2F%2F%20CONTRIBUTION%20TELEMETRY" width="96%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=PraveenHallur123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenHallur123&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=020617&title_color=00E5FF&text_color=FFFFFF" width="48%" />
 
 </div>
 
 ---
-
-# 🏆 SYSTEM ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PraveenHallur123&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+# 🏆 〔 ACHIEVEMENT MATRIX 〕
+
+<img src="https://github-profile-trophy.vercel.app/?username=PraveenHallur123&theme=onestar&no-frame=true&no-bg=true&margin-w=5&column=7" width="95%" />
 
 </div>
 
 ---
 
-# 🎯 DIRECTIVE // LONG-TERM VISION
+# 🐍 〔 CONTRIBUTION PROTOCOL 〕
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PraveenHallur123/PraveenHallur123/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ◉ 〔 SYSTEM DIRECTIVE 〕 ◉
 
 ```text
-                    ┌─────────────────────┐
-                    │   THE VISION CORE   │
-                    └──────────┬──────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-        BUILD SYSTEMS     SECURE SYSTEMS    LEARN SYSTEMS
-              │                │                │
-              └────────────────┼────────────────┘
-                               │
-                               ▼
-                       CREATE IMPACT
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║             CODE        →        CREATE                        ║
+║              ↓                  ↓                              ║
+║           EXPLORE        →      BUILD                          ║
+║              ↓                  ↓                              ║
+║           ATTACK         →      SECURE                         ║
+║              ↓                  ↓                              ║
+║           LEARN         →       REPEAT                         ║
+║                                                                ║
+║                  ⚡ NEVER STOP BUILDING ⚡                     ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-### My long-term goals
-
-* 🚀 Build products that solve real problems
-* 🛡️ Become stronger in cybersecurity
-* 🧠 Develop AI-powered applications
-* 🌐 Build scalable full-stack systems
-* 🔬 Explore emerging technologies
-* 🌍 Contribute to open-source
-* 💼 Work on meaningful real-world projects
+</div>
 
 ---
-
-# 💭 DEVELOPER PROTOCOL
-
-```text
-IF (problem.exists()) {
-
-    understand(problem);
-
-    design(solution);
-
-    build(solution);
-
-    test(solution);
-
-    secure(solution);
-
-    deploy(solution);
-
-    learn();
-
-}
-```
-
----
-
-# ✨ FUN FACT
-
-> 🍕 I once fixed a website vulnerability faster than the pizza I ordered arrived.
-
----
-
-# 📡 ESTABLISH CONNECTION
 
 <div align="center">
 
 <a href="https://github.com/PraveenHallur123">
-<img src="https://img.shields.io/badge/GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+
+<img src="https://img.shields.io/badge/%E2%97%89%20GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" />
+
 </a>
 
 <a href="https://hallunix.tech">
-<img src="https://img.shields.io/badge/HALLUNIX%20TECH-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" />
+
+<img src="https://img.shields.io/badge/%E2%97%89%20HALLUNIX-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=020617&labelColor=020617" />
+
 </a>
 
 <a href="https://praveenhallur.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" />
+
+<img src="https://img.shields.io/badge/%E2%97%89%20PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=020617&labelColor=020617" />
+
 </a>
 
 <a href="https://www.instagram.com/mr.praveeen_hallur/">
-<img src="https://img.shields.io/badge/INSTAGRAM-00E5FF?style=for-the-badge&logo=instagram&logoColor=black" />
+
+<img src="https://img.shields.io/badge/%E2%97%89%20INSTAGRAM-00E5FF?style=for-the-badge&logo=instagram&logoColor=020617&labelColor=020617" />
+
 </a>
 
 <a href="https://orcid.org/0009-0009-5289-218X">
-<img src="https://img.shields.io/badge/ORCID-00E5FF?style=for-the-badge&logo=orcid&logoColor=black" />
+
+<img src="https://img.shields.io/badge/%E2%97%89%20ORCID-00E5FF?style=for-the-badge&logo=orcid&logoColor=020617&labelColor=020617" />
+
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%3E%3E+KEEP+BUILDING;%3E%3E+KEEP+LEARNING;%3E%3E+KEEP+SECURING;%3E%3E+THE+FUTURE+IS+CODED" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=600&color=00E5FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%5B+JARVIS+%5D+SYSTEM+ONLINE;%5B+JARVIS+%5D+SECURITY+ACTIVE;%5B+JARVIS+%5D+BUILD+MODE+ENABLED;%5B+JARVIS+%5D+AWAITING+NEXT+MISSION..." alt="JARVIS" />
 
-<br>
+<br><br>
 
-**⚡ PRAVEEN HALLUR // SYSTEM ONLINE ⚡**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0b1f33,100:050816&height=140&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:082f49,100:020617&height=150&section=footer&animation=twinkling" />
 
 </div>
