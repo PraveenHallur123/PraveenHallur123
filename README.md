@@ -1,87 +1,384 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>A smart, secure login system and a few full-stack client projects using PHP and MySQL.<br><br>👯 I’m looking to collaborate on:<br>Open-source web development projects and security-based applications.<br><br>🤝 I’m looking for help with:<br>Optimizing backend performance and mastering Laravel + React integration.<br><br>🌱 I’m currently learning:<br>Advanced cybersecurity techniques, React.js, and Docker.<br><br>💬 Ask me about:<br>Web development, PHP, MySQL, JavaScript, bug hunting, and ethical hacking basics.<br><br>⚡ Fun fact:<br>I once fixed a website vulnerability faster than the pizza I ordered arrived 🍕😄.
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/praveen.hallur.143) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.praveen_hallur) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-hallur-9463ba1bb) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/praveenhallur2003) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Praveen-4922) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29806371) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/praveenhallur72) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC574fj0PDKKlkKvktlYTnvw) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/praveen-hallur) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenhallur2003@gmail.com)
+<!-- Animated Header -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) 
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Praveen%20Hallur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PraveenHallur123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PraveenHallur123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenHallur123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Typing Animation -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PraveenHallur123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacking+Learner+%F0%9F%95%B5%EF%B8%8F;Backend+%26+Web+Developer+%F0%9F%92%BB;Building+Real-World+Projects+%F0%9F%94%A5;Always+Learning+%26+Building+%F0%9F%93%88" alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PraveenHallur123&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Profile Badges -->
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&logo=code&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Lives-Bengaluru%2C%20India-success?style=for-the-badge&logo=google-maps&logoColor=white" />
+
+<img src="https://img.shields.io/badge/BE-CSE%20%26%20Business-blue?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+</p>
+
+<!-- Social Links -->
+
+<p align="center">
+
+<a href="https://github.com/PraveenHallur123">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://hallunix.tech">
+<img src="https://img.shields.io/badge/Website-Hallunix%20Tech-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://praveenhallur.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/mr.praveeen_hallur/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+<!-- Profile Views -->
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=PraveenHallur123&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://img.shields.io/github/followers/PraveenHallur123?label=Followers&style=for-the-badge&color=F75C7E&labelColor=1a1a1a" alt="Followers" />
+
+</p>
+
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=PraveenHallur123&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/praveenhallur)
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<!-- Proudly created with Hallunix Tech Solutions ( https://hallunix.tech ) -->
+👋 Hi, I'm **Praveen Hallur**.
+
+I'm a Computer Science & Business Engineering student, full-stack developer, cybersecurity enthusiast, and technology builder interested in creating practical solutions that solve real-world problems.
+
+```javascript
+const praveen = {
+    name: "Praveen Hallur",
+    username: "PraveenHallur123",
+
+    education: "B.E. Computer Science & Business",
+
+    interests: [
+        "Full Stack Development",
+        "Cybersecurity",
+        "Ethical Hacking",
+        "Web Security",
+        "Artificial Intelligence",
+        "Open Source"
+    ],
+
+    currentlyLearning: [
+        "Advanced Cybersecurity",
+        "React.js",
+        "Docker",
+        "Laravel",
+        "Backend Development"
+    ],
+
+    currentlyWorkingOn: [
+        "AcadPulse",
+        "Full-Stack Client Projects",
+        "Secure Authentication Systems",
+        "Cybersecurity Projects"
+    ],
+
+    askMeAbout: [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "Web Development",
+        "Cybersecurity",
+        "Bug Hunting",
+        "Ethical Hacking"
+    ],
+
+    funFact:
+        "I once fixed a website vulnerability faster than the pizza
+        I ordered arrived 🍕😄"
+};
+```
+
+<br clear="right"/>
+
+---
+
+# 🚀 What I'm Currently Working On
+
+🔭 **Building secure and practical web applications**
+
+🛡️ Exploring **cybersecurity, ethical hacking and web security**
+
+💻 Developing **full-stack applications using PHP, MySQL, JavaScript and React**
+
+🎓 Working on **AcadPulse**, an academic-focused project
+
+🏢 Working on projects through **Hallunix Tech Solutions**
+
+🐳 Learning and implementing **Docker and modern development workflows**
+
+🌱 Continuously improving my **backend, security and system-design skills**
+
+---
+
+# 🛡️ Cybersecurity & Security Interests
+
+My interest in cybersecurity focuses on understanding how applications can be built securely and how vulnerabilities can be identified and fixed responsibly.
+
+### Areas I'm Exploring
+
+* 🔐 Web Application Security
+* 🕵️ Ethical Hacking
+* 🐞 Bug Hunting
+* 🔑 Authentication & Authorization
+* 🌐 Network Security
+* 🛡️ Secure Backend Development
+* 🔎 Vulnerability Analysis
+* ⚙️ Security Testing
+* 📚 Cybersecurity Fundamentals
+
+> **Build it. Break it. Secure it. Learn from it.**
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=php,js,python,html,css,sql&perline=6&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind&perline=6&theme=dark" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel&perline=6&theme=dark" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgresql&perline=6&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vite,linux&perline=6&theme=dark" />
+
+</div>
+
+---
+
+# 🔧 Technologies I Work With
+
+| Category      | Technologies                               |
+| ------------- | ------------------------------------------ |
+| **Languages** | PHP, JavaScript, Python, HTML, CSS, SQL    |
+| **Frontend**  | React.js, Next.js, Bootstrap, Tailwind CSS |
+| **Backend**   | PHP, Node.js, Express.js, Laravel          |
+| **Databases** | MySQL, MongoDB, Firebase, PostgreSQL       |
+| **Security**  | Web Security, Ethical Hacking, Bug Hunting |
+| **Tools**     | Git, GitHub, VS Code, Docker, Vite         |
+| **Platforms** | Linux, Web Servers, Cloud Services         |
+
+---
+
+# 🚀 Featured Projects
+
+### 🎓 AcadPulse
+
+An academic-focused platform designed to improve communication, collaboration and academic workflow.
+
+🔗 **Repository:**
+https://github.com/PraveenHallur123/AcadPulse
+
+🌐 **Project:**
+https://acadpulse.pages.dev/
+
+---
+
+### 🏢 Advanced Apartment Management System
+
+A PHP-based apartment management system designed to manage apartment-related operations and information.
+
+🔗 **Repository:**
+https://github.com/PraveenHallur123/Advanced-Apartment-Management-System
+
+---
+
+### 🏍️ Bike Rent Management System
+
+A DBMS project developed using PHP, HTML and CSS for managing bike rental operations.
+
+🔗 **Repository:**
+https://github.com/PraveenHallur123/Bike-Rent-
+
+---
+
+### 🤖 Jarvis AI
+
+A JavaScript-based virtual assistant project inspired by voice-controlled AI assistants.
+
+🔗 **Repository:**
+https://github.com/PraveenHallur123/Jarvis-AI
+
+---
+
+### 🎙️ Advanced Voice Command Website
+
+A voice-command-based website inspired by Jarvis-style AI assistants.
+
+🔗 **Repository:**
+https://github.com/PraveenHallur123/Advanced-Voice-Command-Website-Jarvis-Style-AI-Assistant-
+
+---
+
+# 🏢 Hallunix Tech Solutions
+
+I'm also interested in building practical software solutions and working on real-world client projects through **Hallunix Tech Solutions**.
+
+🌐 **Website:**
+https://hallunix.tech
+
+My focus includes:
+
+* Full-stack web applications
+* Business websites
+* Database-driven applications
+* Secure authentication systems
+* Custom software solutions
+* Client-oriented development
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenHallur123&bg_color=0d1117&color=f75c7e&line=f75c7e&point=ffffff&area=true&hide_border=true&custom_title=Praveen%20Hallur%20-%20Contribution%20Activity" width="95%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PraveenHallur123/PraveenHallur123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PraveenHallur123/PraveenHallur123/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/PraveenHallur123/PraveenHallur123/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PraveenHallur123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenHallur123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" width="49%" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PraveenHallur123&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+```text
+☑ Build real-world full-stack applications
+☑ Improve cybersecurity knowledge
+☑ Learn advanced React & Laravel
+☑ Master backend architecture
+☑ Learn Docker & deployment
+☑ Contribute to open-source projects
+☑ Build secure web applications
+☑ Improve problem-solving skills
+☑ Turn ideas into useful products
+```
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Don't just write code. Understand the problem, build the solution, secure it, and keep learning."**
+
+---
+
+# ✍️ Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_category=programming" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/PraveenHallur123">
+<img src="https://img.shields.io/badge/GitHub-PraveenHallur123-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://hallunix.tech">
+<img src="https://img.shields.io/badge/Hallunix%20Tech-Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://praveenhallur.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Praveen%20Hallur-F75C7E?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/mr.praveeen_hallur/">
+<img src="https://img.shields.io/badge/Instagram-mr.praveeen__hallur-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://orcid.org/0009-0009-5289-218X">
+<img src="https://img.shields.io/badge/ORCID-0009--0009--5289--218X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Keep Building • Keep Learning • Keep Securing
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+</div>
