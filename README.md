@@ -1,560 +1,87 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on:<br>A smart, secure login system and a few full-stack client projects using PHP and MySQL.<br><br>👯 I’m looking to collaborate on:<br>Open-source web development projects and security-based applications.<br><br>🤝 I’m looking for help with:<br>Optimizing backend performance and mastering Laravel + React integration.<br><br>🌱 I’m currently learning:<br>Advanced cybersecurity techniques, React.js, and Docker.<br><br>💬 Ask me about:<br>Web development, PHP, MySQL, JavaScript, bug hunting, and ethical hacking basics.<br><br>⚡ Fun fact:<br>I once fixed a website vulnerability faster than the pizza I ordered arrived 🍕😄.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:071a2f,55:0b3b5c,80:0066ff,100:00e5ff&height=250&section=header&text=PRAVEEN%20HALLUR&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=AVENGERS%20COMMAND%20CENTER&descAlignY=57&descSize=20&descColor=00e5ff" />
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/praveen.hallur.143) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.praveen_hallur) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-hallur-9463ba1bb) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/praveenhallur2003) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Praveen-4922) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29806371) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/praveenhallur72) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC574fj0PDKKlkKvktlYTnvw) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/praveen-hallur) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveenhallur2003@gmail.com)
 
-<br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) 
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1700&pause=500&color=00E5FF&center=true&vCenter=true&repeat=true&width=900&height=90&lines=%5B+AVENGERS+PROTOCOL+%5D+INITIALIZING...;%5B+JARVIS+%5D+SYSTEM+ONLINE;%5B+IRON+MAN+%5D+ENGINEERING+CORE+ONLINE;%5B+BLACK+WIDOW+%5D+SECURITY+MODULE+ONLINE;%5B+VISION+%5D+AI+CORE+ONLINE;%5B+SPIDER-MAN+%5D+WEB+SYSTEM+ONLINE;%5B+THOR+%5D+INFRASTRUCTURE+ONLINE;%5B+HULK+%5D+BACKEND+CORE+ONLINE;%5B+AVENGERS+%5D+READY+FOR+MISSION" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PraveenHallur123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PraveenHallur123&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenHallur123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PraveenHallur123&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://img.shields.io/badge/◉_COMMAND-ONLINE-00E5FF?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/◉_SECURITY-ACTIVE-FF1744?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/◉_AI-ONLINE-9C27B0?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/◉_BUILD-24%2F7-FFB300?style=for-the-badge&labelColor=020617" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br><br>
-
-<a href="https://github.com/PraveenHallur123">
-<img src="https://img.shields.io/badge/GITHUB-PRAVEENHALLUR123-020617?style=for-the-badge&logo=github&logoColor=00E5FF" />
-</a>
-
-<a href="https://hallunix.tech">
-<img src="https://img.shields.io/badge/HALLUNIX_TECH-ONLINE-020617?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
-</a>
-
-<a href="https://praveenhallur.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-OPEN-020617?style=for-the-badge&logo=vercel&logoColor=00E5FF" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=PraveenHallur123&label=◉_VISITORS&color=00e5ff&style=for-the-badge" />
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PraveenHallur123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-<div align="center">
+[![](https://visitcount.itsvg.in/api?id=PraveenHallur123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                    ◉ AVENGERS COMMAND CENTER ◉                      ║
-║                                                                      ║
-║                         ┌──────────────┐                             ║
-║                         │    JARVIS    │                             ║
-║                         │   ONLINE ◉   │                             ║
-║                         └──────┬───────┘                             ║
-║                                │                                     ║
-║              ┌─────────────────┼─────────────────┐                   ║
-║              │                 │                 │                   ║
-║              ▼                 ▼                 ▼                   ║
-║          ENGINEERING       SECURITY             AI                  ║
-║              │                 │                 │                   ║
-║              ▼                 ▼                 ▼                   ║
-║          IRON MAN        BLACK WIDOW           VISION                ║
-║                                                                      ║
-║                         PRAVEEN HALLUR                               ║
-║                                                                      ║
-║                 CODE  •  BUILD  •  SECURE  •  CREATE                ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/praveenhallur)
 
-</div>
-
----
-
-<div align="center">
-
-# ⚡ AVENGERS // OPERATOR PROFILE
-
-<table>
-<tr>
-<td align="center">
-
-### 🦾
-
-**IRON MAN**
-
-`ENGINEERING`
-
-Full Stack
-AI
-Product Building
-
-</td>
-
-<td align="center">
-
-### 🛡️
-
-**CAPTAIN**
-
-`LEADERSHIP`
-
-Team Projects
-AcadPulse
-Collaboration
-
-</td>
-
-<td align="center">
-
-### 🕷️
-
-**SPIDER-MAN**
-
-`WEB SYSTEMS`
-
-React
-JavaScript
-Frontend
-
-</td>
-
-<td align="center">
-
-### 🕵️
-
-**BLACK WIDOW**
-
-`SECURITY`
-
-Cybersecurity
-Ethical Hacking
-Bug Hunting
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 💚
-
-**HULK**
-
-`BACKEND`
-
-PHP
-MySQL
-APIs
-
-</td>
-
-<td align="center">
-
-### ⚡
-
-**THOR**
-
-`INFRASTRUCTURE`
-
-Linux
-Docker
-Deployment
-
-</td>
-
-<td align="center">
-
-### 🔮
-
-**VISION**
-
-`AI CORE`
-
-AI
-Automation
-Intelligent Systems
-
-</td>
-
-<td align="center">
-
-### 🎯
-
-**HAWKEYE**
-
-`PRECISION`
-
-Problem Solving
-Debugging
-Algorithms
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🦾 〔 IRON MAN // ENGINEERING CORE 〕
-
-<div align="center">
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                  ARC REACTOR // ONLINE                       │
-│                                                              │
-│              ◉ FULL STACK ENGINEERING ◉                     │
-│                                                              │
-│        PHP     JavaScript     Python     React               │
-│        Node    Express        Laravel    Next.js             │
-│                                                              │
-│        ████████████████████████████████████░░  95%           │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
-<img src="https://skillicons.dev/icons?i=php,js,python,react,nextjs,nodejs,express,laravel&perline=8&theme=dark" />
-
-</div>
-
----
-
-# 🕵️ 〔 BLACK WIDOW // SECURITY OPERATIONS 〕
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/◉_WEB_SECURITY-ONLINE-FF1744?style=for-the-badge&labelColor=140000" />
-<img src="https://img.shields.io/badge/◉_ETHICAL_HACKING-LEARNING-FF1744?style=for-the-badge&labelColor=140000" />
-<img src="https://img.shields.io/badge/◉_BUG_HUNTING-ACTIVE-FF1744?style=for-the-badge&labelColor=140000" />
-<img src="https://img.shields.io/badge/◉_AUTH_SECURITY-ACTIVE-FF1744?style=for-the-badge&labelColor=140000" />
-
-<br><br>
-
-```text
-          ┌─────────────────────────────────────────┐
-          │       BLACK WIDOW // SECURITY            │
-          ├─────────────────────────────────────────┤
-          │                                         │
-          │  ◉ WEB APPLICATION SECURITY             │
-          │  ◉ VULNERABILITY ANALYSIS               │
-          │  ◉ BUG HUNTING                          │
-          │  ◉ ETHICAL HACKING                      │
-          │  ◉ SECURE AUTHENTICATION                │
-          │  ◉ SECURITY-FIRST DEVELOPMENT           │
-          │                                         │
-          │          THREAT LEVEL : MONITORED       │
-          │                                         │
-          └─────────────────────────────────────────┘
-```
-
-`BUILD → TEST → BREAK → PATCH → SECURE`
-
-</div>
-
----
-
-# 🕷️ 〔 SPIDER-MAN // WEB NETWORK 〕
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&perline=7&theme=dark" />
-
-<br><br>
-
-```text
-       ◉───────────────◉
-       │ \             / │
-       │   \         /   │
-       │     \     /     │
-       │       \ /       │
-       │       / \       │
-       │     /     \     │
-       │   /         \   │
-       │ /             \ │
-       ◉───────────────◉
-
-              WEB NETWORK
-                 ONLINE
-```
-
-</div>
-
----
-
-# 💚 〔 HULK // BACKEND CORE 〕
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel,mysql,mongodb,firebase,postgres&perline=8&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DATABASE-CORE-00C853?style=for-the-badge&labelColor=001b08" />
-<img src="https://img.shields.io/badge/API-SYSTEM-00C853?style=for-the-badge&labelColor=001b08" />
-<img src="https://img.shields.io/badge/BACKEND-ONLINE-00C853?style=for-the-badge&labelColor=001b08" />
-
-<br><br>
-
-```text
-        REQUEST
-           │
-           ▼
-     ┌───────────┐
-     │   API     │
-     └─────┬─────┘
-           │
-           ▼
-     ┌───────────┐
-     │  SERVER   │
-     └─────┬─────┘
-           │
-           ▼
-     ┌───────────┐
-     │ DATABASE  │
-     └─────┬─────┘
-           │
-           ▼
-        RESPONSE
-```
-
-</div>
-
----
-
-# ⚡ 〔 THOR // INFRASTRUCTURE 〕
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vite&perline=6&theme=dark" />
-
-<br><br>
-
-```text
-                    ⚡
-                   / \
-                  /   \
-                 / THOR\
-                /_______\
-                    │
-             ┌──────┴──────┐
-             │             │
-           LINUX         DOCKER
-             │             │
-             └──────┬──────┘
-                    │
-                 DEPLOY
-                    │
-                    ▼
-                  ◉ ONLINE
-```
-
-</div>
-
----
-
-# 🔮 〔 VISION // AI CORE 〕
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_CORE-ACTIVE-9C27B0?style=for-the-badge&labelColor=12001A" />
-<img src="https://img.shields.io/badge/AUTOMATION-ONLINE-9C27B0?style=for-the-badge&labelColor=12001A" />
-<img src="https://img.shields.io/badge/EXPERIMENTS-RUNNING-9C27B0?style=for-the-badge&labelColor=12001A" />
-
-<br><br>
-
-```text
-                 ╭──────────────╮
-                 │    VISION    │
-                 │   ◉ ONLINE   │
-                 ╰──────┬───────╯
-                        │
-             ┌──────────┼──────────┐
-             │          │          │
-             ▼          ▼          ▼
-            AI      AUTOMATION   LOGIC
-             │          │          │
-             └──────────┼──────────┘
-                        │
-                        ▼
-                  INTELLIGENCE
-```
-
-</div>
-
----
-
-# 🎯 〔 HAWKEYE // PRECISION ENGINE 〕
-
-<div align="center">
-
-```text
-                  ╭───────────────╮
-                  │       ◉       │
-                  │     ╱   ╲     │
-                  │    │  ◎  │    │
-                  │     ╲   ╱     │
-                  │       ◉       │
-                  ╰───────┬───────╯
-                          │
-                          ▼
-                    TARGET LOCKED
-
-             ◉ DEBUGGING
-             ◉ PROBLEM SOLVING
-             ◉ ALGORITHMS
-             ◉ SYSTEM ANALYSIS
-             ◉ PERFORMANCE
-```
-
-</div>
-
----
-
-# 🛡️ 〔 CAPTAIN AMERICA // COMMAND 〕
-
-<div align="center">
-
-```text
-                 ╭──────────────────╮
-                 │       🛡️         │
-                 │                  │
-                 │    PRAVEEN       │
-                 │     HALLUR       │
-                 │                  │
-                 │  TEAM • BUILD    │
-                 │  LEAD • DELIVER  │
-                 ╰──────────────────╯
-```
-
-### 🎓 AcadPulse
-
-<img src="https://img.shields.io/badge/PROJECT-ACADPULSE-00E5FF?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF88?style=for-the-badge&labelColor=020617" />
-
-<br>
-
-<a href="https://acadpulse.pages.dev/">
-<img src="https://img.shields.io/badge/◉_LAUNCH-ACADPULSE-00E5FF?style=for-the-badge&labelColor=020617" />
-</a>
-
-<a href="https://github.com/PraveenHallur123/AcadPulse">
-<img src="https://img.shields.io/badge/◉_SOURCE-GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=020617" />
-</a>
-
-</div>
-
----
-
-# 🧪 〔 AVENGERS // PROJECT VAULT 〕
-
-<div align="center">
-
-<a href="https://github.com/PraveenHallur123/Jarvis-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenHallur123&repo=Jarvis-AI&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=020617" width="48%" />
-</a>
-
-<a href="https://github.com/PraveenHallur123/Bike-Rent-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenHallur123&repo=Bike-Rent-&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=020617" width="48%" />
-</a>
-
-<a href="https://github.com/PraveenHallur123/Advanced-Apartment-Management-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PraveenHallur123&repo=Advanced-Apartment-Management-System&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&bg_color=020617" width="48%" />
-</a>
-
-<a href="https://github.com/PraveenHallur123/Advanced-Voice-Command-Website-Jarvis-Style-AI-Assistant-">
-<img src="https://img.shields.io/badge/◉_JARVIS-VOICE_COMMAND_SYSTEM-9C27B0?style=for-the-badge&labelColor=020617" />
-</a>
-
-</div>
-
----
-
-# 🛰️ 〔 AVENGERS // COMMAND TELEMETRY 〕
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraveenHallur123&bg_color=020617&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=AVENGERS%20COMMAND%20CENTER%20%2F%2F%20GITHUB%20TELEMETRY" width="96%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=PraveenHallur123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&bg_color=020617&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenHallur123&layout=compact&langs_count=8&hide_border=true&theme=transparent&bg_color=020617&title_color=00E5FF&text_color=FFFFFF" width="48%" />
-
-</div>
-
----
-
-# 🐍 〔 CONTRIBUTION MATRIX 〕
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PraveenHallur123/PraveenHallur123/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Matrix" />
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 〔 AVENGERS // ACHIEVEMENTS 〕
-
-<img src="https://github-profile-trophy.vercel.app/?username=PraveenHallur123&theme=onestar&no-frame=true&no-bg=true&margin-w=5&column=7" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                    ◉ AVENGERS PROTOCOL ◉                            ║
-║                                                                      ║
-║        🦾 IRON MAN       → ENGINEERING                              ║
-║        🛡️ CAPTAIN        → LEADERSHIP                               ║
-║        🕷️ SPIDER-MAN     → WEB                                      ║
-║        🕵️ BLACK WIDOW    → SECURITY                                 ║
-║        💚 HULK           → BACKEND                                  ║
-║        ⚡ THOR           → INFRASTRUCTURE                            ║
-║        🔮 VISION         → AI                                       ║
-║        🎯 HAWKEYE        → PRECISION                                ║
-║                                                                      ║
-║                         ↓                                            ║
-║                                                                      ║
-║                 ╔══════════════════════╗                             ║
-║                 ║   PRAVEEN HALLUR     ║                             ║
-║                 ║      ◉ ONLINE        ║                             ║
-║                 ╚══════════════════════╝                             ║
-║                                                                      ║
-║                   AVENGERS — ASSEMBLE                                ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2300&pause=500&color=00E5FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=%5B+JARVIS+%5D+ALL+SYSTEMS+NOMINAL;%5B+AVENGERS+%5D+MISSION+READY;%5B+PRAVEEN+%5D+BUILD+MODE+ACTIVE;%5B+SYSTEM+%5D+AWAITING+NEXT+MISSION..." />
-
-<br><br>
-
-<a href="https://github.com/PraveenHallur123">
-<img src="https://img.shields.io/badge/◉_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=020617&labelColor=020617" />
-</a>
-
-<a href="https://hallunix.tech">
-<img src="https://img.shields.io/badge/◉_HALLUNIX-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=020617&labelColor=020617" />
-</a>
-
-<a href="https://praveenhallur.vercel.app/">
-<img src="https://img.shields.io/badge/◉_PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=020617&labelColor=020617" />
-</a>
-
-<a href="https://www.instagram.com/mr.praveeen_hallur/">
-<img src="https://img.shields.io/badge/◉_INSTAGRAM-00E5FF?style=for-the-badge&logo=instagram&logoColor=020617&labelColor=020617" />
-</a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,35:0066ff,65:071a2f,100:020617&height=150&section=footer&animation=twinkling" />
-
-</div>
+<!-- Proudly created with Hallunix Tech Solutions ( https://hallunix.tech ) -->
